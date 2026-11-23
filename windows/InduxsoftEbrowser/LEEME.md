@@ -1,11 +1,11 @@
-# Induxsoft e-browser para Windows 2.0.0
+# Induxsoft AppDesk para Windows 2.1.0
 
 Un solo archivo, sin instalar nada más. Windows 10 y 11.
 
 | Equipo | Archivo | SHA-256 |
 |---|---|---|
-| Intel o AMD (la mayoría) | `x64/ebrowser.exe` | `415de4f2b9902f8d25c5c75e3f4d4004be45849efa36997414ca61879d408983` |
-| ARM (Snapdragon) | `arm64/ebrowser.exe` | `d80e03e3cc8caa815edb92b7d25dab1ed3a8ed5902b1a2241495b352d9f2a0a1` |
+| Intel o AMD (la mayoría) | `x64/ebrowser.exe` | `30d014faaf60a27fd9374d50b1b6ea96608cdb540db252cd67bb47d37d02d38d` |
+| ARM (Snapdragon) | `arm64/ebrowser.exe` | `758a2f611078d5d7b29120ae265402ce1406dd981dbce6073c2dea7441a5a916` |
 
 ## Uso
 
@@ -21,4 +21,6 @@ ebrowser.exe help                     :: todas las opciones
 - Requiere Microsoft Edge WebView2 Runtime (viene con Windows 11 y Windows 10 actualizado); si falta, e-browser lo instala.
 - El ejecutable no está firmado: al descargarlo, SmartScreen puede pedir confirmación («Más información» → «Ejecutar de todas formas»).
 
-La versión de 2023 sigue en `../Versiones anteriores (no recomendadas)/2023/`.
+Las versiones anteriores quedan archivadas por versión en `../Versiones anteriores (no recomendadas)/`. Se conservan para poder volver atrás; no instalarlas salvo por esa razón.
+
+<!-- Generado por el flujo de compilación. Código: Induxsoft/windows-e-browser-2 @ ea490ce -->
